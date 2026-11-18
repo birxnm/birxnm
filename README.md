@@ -57,6 +57,29 @@
 
 ---
 
+## 🏁 Hackathons
+
+Hackathons are where I ship fastest. Here is where I have competed:
+
+| Hackathon | What I did |
+|---|---|
+| **HackAlem AI** (2026) | Built an agentic AI system forecasting wind farm power output in the energy track, at the world's largest AI hackathon (Guinness World Record, 2,415 participants). |
+| **EmpowerMe Hackathon**, Turkey (2026) | Won 1st place, top 1 of 15 teams from 5 countries. |
+| **Zimran Business Cup 2.0** (Nov 2026) | Built K7, a gamified interest-networking web app, in a 24-hour product hackathon at Nazarbayev University ([code](https://github.com/astmirzhan/K7) · [demo](https://k7-indol.vercel.app/)). |
+| **ForteBank Datathon 26** (2026) | Designed and built the frontend and UX/UI of a local AI video checker that flags cashier cash-discipline violations. |
+| **NU IEEE Case Championship** (2026) | Software engineer on the Stadler rail case ([code](https://github.com/birxnm/stadler-lcc-kz)). |
+| **Datasaur Hackathon** | Reached the Top 5 of 1,000+ teams with FIRE, an AI engine that analyses and routes client requests for Freedom Broker (Freedom Holding). |
+| **Decentrathon 4.0** | Reached the Top 10 of 4,000 participants on the inDrive case at Kazakhstan's largest hackathon. |
+| **Decentrathon 5.0** | Took part in the fifth edition of Decentrathon, Astana Hub's national hackathon series. |
+| **Decentrathon 6.0** | Took part in the sixth edition of Decentrathon, Astana Hub's national hackathon series. |
+| **Meta Llama IdeaThon & Accelerator** (2025) | Reached the Accelerator as a Top-5 IdeaThon finalist, then placed 2nd of 1,800 teams with an AI digital-avatar tourist guide ([code](https://github.com/birxnm/backroots)). |
+| **Mastercard Hackathon** | Finalist; trained the ML model behind our solution ([code](https://github.com/birxnm/mastercard_ml_model) · [demo](https://mastercardwinners.vercel.app)). |
+| **Higgsfield.ai Hackathon** | Finalist in the AI video-generation hackathon by Higgsfield. |
+| **SheCodes** | Took part in the SheCodes hackathon for women in tech. |
+| **NU ACM** | Took part in the hackathon run by the NU ACM student chapter at Nazarbayev University. |
+
+---
+
 ## 🔥 Tech Stack
 
 ```javascript
