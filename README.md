@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Birka's Journey</h1>
 
-<h3 align="center">Hi 👋, I’m Birkhanym</h3>
+<h3 align="center">Hi, I’m Birkhanym 👋(but you can call me Birka) </h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Building+AI+Products;Create+Explore+Expand+Conquer" alt="Typing SVG" />
