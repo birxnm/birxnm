@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Birkhanym</h1>
+<h1 align="center">Hi, I'm Birkhanym </h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Building+AI+Products;Create+Explore+Expand+Conquer" alt="Typing SVG" />
@@ -9,12 +9,8 @@
 ## 📬 Contacts
 
 <div align="center">
-<a href="https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://t.me/birxnm">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+<a href="https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/birxnm"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
 ---
