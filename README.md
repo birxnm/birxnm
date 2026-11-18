@@ -4,24 +4,30 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0CF722&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Software+Engineering+%40+AITU;AI+%2F+ML+%7C+Python+%7C+Golang+%7C+React;Building+at+QazaqArt.kz;Always+Learning+and+Shipping" alt="Typing SVG" />
 </div>
 
-<p align="center">
-<a href="https://github.com/birxnm?tab=followers">
-<img src="https://img.shields.io/github/followers/birxnm?label=Followers&style=social" alt="GitHub Followers" />
+---
+
+## my contacts
+
+<div align="center">
+<a href="https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=birxnm&color=green&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+<a href="https://telegram : @birxnm">
+<img src="put here telegram link" />
+</a>
+</div>
+
+---
 
 ---
 
 ## 👩‍💻 About Me
 
-- 📖 **Current Role:** Full-Stack Developer @ **[QazaqArt.kz](https://qazaqart.kz/)**
+- 📖 **Current Role:** Full-Stack Developing at  @ **[Shai.Pro](https://shainote.ai/)** & @ **[QazaqArt.kz](https://qazaqart.kz/)**
 - 🎓 **Education:** Software Engineering student @ **Astana IT University (AITU)**, graduating 2027
 - 🔬 **Research:** Machine learning for 6G LEO satellite routing (IEEE conference paper, 2026)
 - 🧠 **Interests:** AI/ML products, touch design, full-stack web & app
 - 🌍 **Location:** Astana, Kazakhstan
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/)
-
 ---
 
 ## 🏆 Highlights
@@ -41,14 +47,9 @@
 |---|---|---|---|
 | **diploma-pharmacy** | Intelligent supply chain optimization for hospital pharmacy inventory forecasting and shortage prevention | Python, ML | [Code](https://github.com/birxnm/diploma-pharmacy) |
 | **k7** | Zimran Business Cup 2026 | Typescript | [Code](https://github.com/birxnm/diploma-pharmacy](https://github.com/astmirzhan/K7)) |
-· [Demo](https://mastercardwinners.vercel.app) |
+· [Demo](https://k7-indol.vercel.app/) |
 | **ieee** | Code for the MEAR LEO satellite routing paper | Python, ML | [Code](https://github.com/birxnm/ieee) |
 | **mastercard_ml_model** | ML model built at the Mastercard Hackathon | Python, Jupyter | [Code](https://github.com/birxnm/mastercard_ml_model) · [Demo](https://mastercardwinners.vercel.app) |
-| **ai-telegram-assistant** | AI-powered Telegram assistant for a paintings company | Python, LLM | [Code](https://github.com/birxnm/ai-telegram-assistant) |
-| **blockchain_final** | GameFi protocol: governance voting, ERC-1155 game items, AMM token swaps | Solidity | [Code](https://github.com/birxnm/blockchain_final) |
-| **football-english** | Football-themed English learning site for kids | HTML | [Code](https://github.com/birxnm/football-english) · [Demo](https://football-english.vercel.app) |
-| **ninja-master** | Web app deployed on Vercel | TypeScript | [Code](https://github.com/birxnm/ninja-master) · [Demo](https://ninja-master-three.vercel.app) |
-| **birkasjourney** | Birka's Journey productivity app | Python | [Code](https://github.com/birxnm/birkasjourney) |
 
 ---
 
@@ -70,20 +71,5 @@ const birkhanym = {
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,go,ts,js,react,nextjs,nodejs,django,vue,solidity,git,figma&perline=6" alt="Skills" />
 </p>
-
----
-\
-## 📞 Connect With Me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://qazaqart.kz/">
-<img src="https://img.shields.io/badge/QazaqArt.kz-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="QazaqArt" />
-</a>
-</div>
-
----
 
 <p align="center">⭐ If you find my work interesting, please consider giving my repositories a star!</p>
