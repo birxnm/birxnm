@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Birkhanym Kazhymukhamet</h1>
+<h1 align="center">Hi👋, I'm Birkhanym </h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0CF722&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Software+Engineering+%40+AITU;AI+%2F+ML+%7C+Python+%7C+Golang+%7C+React;Building+at+QazaqArt.kz;Always+Learning+and+Shipping" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 - 📖 **Current Role:** Full-Stack Developer @ **[QazaqArt.kz](https://qazaqart.kz/)**
 - 🎓 **Education:** Software Engineering student @ **Astana IT University (AITU)**, graduating 2027
 - 🔬 **Research:** Machine learning for 6G LEO satellite routing (IEEE conference paper, 2026)
-- 🧠 **Interests:** AI/ML products, fintech & antifraud, full-stack web
+- 🧠 **Interests:** AI/ML products, touch design, full-stack web & app
 - 🌍 **Location:** Astana, Kazakhstan
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/birkhanym-kazhymukhamet-668261337/)
 
@@ -40,6 +40,8 @@
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **diploma-pharmacy** | Intelligent supply chain optimization for hospital pharmacy inventory forecasting and shortage prevention | Python, ML | [Code](https://github.com/birxnm/diploma-pharmacy) |
+| **k7** | Zimran Business Cup 2026 | Typescript | [Code](https://github.com/birxnm/diploma-pharmacy](https://github.com/astmirzhan/K7)) |
+· [Demo](https://mastercardwinners.vercel.app) |
 | **ieee** | Code for the MEAR LEO satellite routing paper | Python, ML | [Code](https://github.com/birxnm/ieee) |
 | **mastercard_ml_model** | ML model built at the Mastercard Hackathon | Python, Jupyter | [Code](https://github.com/birxnm/mastercard_ml_model) · [Demo](https://mastercardwinners.vercel.app) |
 | **ai-telegram-assistant** | AI-powered Telegram assistant for a paintings company | Python, LLM | [Code](https://github.com/birxnm/ai-telegram-assistant) |
@@ -70,20 +72,7 @@ const birkhanym = {
 </p>
 
 ---
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=birxnm&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birxnm&langs_count=8&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" height="180" />
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=birxnm&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
----
-
+\
 ## 📞 Connect With Me
 
 <div align="center">
