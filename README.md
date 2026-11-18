@@ -32,13 +32,15 @@
 
 ## 🏆 Highlights
 
-- 🥇 **Draper Founders Challenge winner** (AI & Digital Bridge 2026) with **CortexAI**, a medical ML startup from the Enactus AITU team, earning a Draper University program in Silicon Valley
+- 🥇 **1st of 6,000 students** at Astana IT University (2026 cohort, highest integral GPA across academic, research and extracurricular performance)
+- 🌍 **Enactus World Cup 2025, Global Top 4** (Bangkok, 4th of 35 national champions, first Kazakhstani team in 30 years), 2x national champion as Vice Captain & AI Lead of Enactus AITU
+- 🏆 **EmpowerMe Hackathon (Turkey) 2026: 1st place**, top 1 of 15 teams from 5 countries
 - 🦙 **Meta Llama Accelerator: 2nd place out of 1800 teams** with **BackRoot**, an AR voice-to-voice AI platform
-- 📄 **IEEE conference paper (2026):** MEAR, manifold-learning (diffusion maps) adaptive routing for 6G LEO satellite networks
-- 🚆 **NU IEEE Case Championship 2026:** software engineer on the Stadler rail case
-- ⚡ **HackAlem AI 2026:** agentic AI system forecasting wind farm power output (energy track)
-- 🏦 **ForteBank Datathon 26:** frontend & UX/UI for a local AI video checker of cashier cash discipline
-- 💳 **Mastercard Hackathon:** ML model training ([live demo](https://mastercardwinners.vercel.app))
+- ⚡ **HackAlem AI 2026:** agentic AI system forecasting wind farm power output (energy track), at the world's largest AI hackathon: 🏅 **GUINNESS WORLD RECORDS™ title, 2,415 participants**
+- 🔟 **Decentrathon 4.0 (inDrive case):** Top 10 of 4,000 participants · **Datasaur Hackathon:** Top 5 of 1,000+ teams with FIRE, an AI engine routing client requests for Freedom Broker
+- 🧬 **CortexAI** (Enactus AITU): ML prototype predicting kidney-transplant rejection, Top 3 of 80 in an NVIDIA Inception competition round
+- 📄 **IEEE DG 2026 paper:** MEAR, manifold-learning (diffusion maps) adaptive routing for 6G LEO satellite networks, presented in Astana
+- 🎓 **Tech Orda state grant** for EPAM's 27-week Generative AI for Software Development programme; admitted to **Tomorrow School**, Kazakhstan's first peer-to-peer AI school (Astana Hub)
 
 ---
 
@@ -47,6 +49,7 @@
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **BackRoot** | AR voice-to-voice AI platform: talk to a real-time AI avatar (EN/KZ) with lip sync, manage virtual crypto coins and 3D models in AR, and get geolocation-aware context. Meta Llama Accelerator, 2nd place / 1800 | React, TypeScript, Three.js, FastAPI, PostgreSQL, WebSocket, OpenAI/Groq | [Code](https://github.com/birxnm/backroots) |
+| **HackAlem AI** | Agentic AI system forecasting wind farm power output (energy track). Built at HackAlem AI in Astana, the **world's largest AI hackathon**: 🏅 GUINNESS WORLD RECORDS™ title with **2,415 participants**, beating the previous record of 2,089 | AI agents, ML forecasting | [Record announcement](https://www.gov.kz/memleket/entities/maidd/press/news/details/1297750?lang=en) |
 | **diploma-pharmacy** | Intelligent supply chain optimization for hospital pharmacy inventory forecasting and shortage prevention | Python, ML | [Code](https://github.com/birxnm/diploma-pharmacy) |
 | **k7** | Gamified interest networking, built at Zimran Business Cup 2026 | TypeScript | [Code](https://github.com/astmirzhan/K7) · [Demo](https://k7-indol.vercel.app/) |
 | **ieee** | Code for the MEAR LEO satellite routing paper | Python, ML | [Code](https://github.com/birxnm/ieee) |
