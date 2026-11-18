@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Birkhanym</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0CF722&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Software+Engineering+%40+AITU;AI+%2F+ML+%7C+Python+%7C+Golang+%7C+React;Building+at+QazaqArt.kz;Always+Learning+and+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Building+AI+Products;Create+Explore+Expand+Conquer" alt="Typing SVG" />
 </div>
 
 ---
